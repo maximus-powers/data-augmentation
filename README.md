@@ -7,4 +7,4 @@
 
 ### Code
 
-* [Data Augmentation Cookbook (.ipynb)](./DataAugmentationLecture)
+* [Data Augmentation Cookbook (.ipynb)](DataAugmentationLecture.ipynb)
