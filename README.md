@@ -8,3 +8,4 @@
 ### Code
 
 * [Data Augmentation Cookbook (.ipynb)](DataAugmentationLecture.ipynb)
+* [Colab Version](https://colab.research.google.com/drive/1uBwtWkXUdQn2OPQi8trQg1TosDYFn01J)
